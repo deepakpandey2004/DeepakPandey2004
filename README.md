@@ -81,5 +81,6 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2004&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 
