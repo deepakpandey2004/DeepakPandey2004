@@ -4,38 +4,44 @@
 
 .🎓 I'm a Final Year BCA student | Backend Developer | Machine Learning Enthuasist.
 
-<br>
-<br>
+<h3>Languages :</h3>
 
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+</p>
 
+<h3>Version Control and Cloud Platforms :</h3>
 
- 🚀 Skills
- <br>
- 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9cf?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=gcp" />
+</p>
 
-<br>
-<br>
+<h3>Frameworks and Databases :</h3>
 
+<p>
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakPandey2004&layout=compact&theme=tokyonight)
+<h3>Modules and Libraries :</h3>
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=numpy" />
+<img src="https://skillicons.dev/icons?i=pandas" />
+</p>
 
- 📫 Connect With Me <br>
-📧 Email: whynotdeepaks@gmail.com  
-📷 Instagram: [@diipak2005](https://instagram.com/diipak2005)  
-📬 Telegram: @deepakpandey12
+## Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2004&layout=compact&theme=tokyonight)
 
 
 
