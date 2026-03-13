@@ -98,5 +98,28 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 
 
+<h3 align="center">My Socials</h3>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+
 
 
