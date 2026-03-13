@@ -8,7 +8,8 @@
 
 <p align="center">
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="250"/>
+<p align="center">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-laptop-4489759-3723277.png" width="350"/>
 </p>
 
 
