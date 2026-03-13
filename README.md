@@ -100,14 +100,16 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 <h3 align="center">My Socials</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/deepakpandey12">
+<a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
 &nbsp;&nbsp;&nbsp;
 
-
-<a href="https://instagram.com/diipak2005">
+<a href="https://instagram.com/YOUR_INSTAGRAM">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-&nbsp;&nbsp;&nbsp;
+</a>
+</p>
 
 
 
