@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
-<h3 align="center">Backend Developer | Python 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Forever+Learner"/>
-</p>
+<h3 align="center">Backend Developer | Python | Machine Learning
 
 
 <p align="center">
