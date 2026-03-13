@@ -1,4 +1,3 @@
-<h1 align="center">Hey, I'm DEEPAK PANDEY 👋</h1>
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
 <h3 align="center">Backend Developer | Python 
 
