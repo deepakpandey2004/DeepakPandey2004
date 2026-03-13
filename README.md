@@ -2,9 +2,7 @@
 
  Hi there, I'm Deepak Pandey!
 
-.🎓 I'm a Final Year BCA student | Backend Developer | Machine Learning   
-.💻 Recently completed a project on Harbor.  
-.📂 Check it out here: [harbor GitHub Repo](https://github.com/deepakpandey2004/harbor.git)
+.🎓 I'm a Final Year BCA student | Backend Developer | Machine Learning Enthuasist.
 
 <br>
 <br>
