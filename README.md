@@ -33,28 +33,39 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <h3>Languages :</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://skillicons.dev/icons?i=c" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
 </p>
 
 <br>
 
 <h3>Version Control and Cloud Platforms :</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=git" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=github" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=aws" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/>
 </p>
 
 <br>
 
 <h3>Frameworks and Databases :</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=flask" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=django" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48"/>
 </p>
 
 <br>
 
 <h3>Modules and Libraries :</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=postman,tensorflow,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=postman" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=numpy" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=pandas" width="48" style="margin-right:25px"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
 </p>
 
 <br>
