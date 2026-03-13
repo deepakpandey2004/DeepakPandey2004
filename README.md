@@ -90,7 +90,7 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <td>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=deepakpandey2004&theme=tokyonight"/>
 
 </td>
 </tr>
