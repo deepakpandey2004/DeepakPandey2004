@@ -28,7 +28,7 @@ I enjoy building APIs using **Flask** and **FastAPI** and working with databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
-<br>
+
 <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
