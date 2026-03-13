@@ -98,22 +98,3 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 
 
-
-
-<h3 align="center">My Socials</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/deepakpandey12" style="text-decoration:none;">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/diipak2005" style="text-decoration:none;">
-<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
-</a>
-</p>
-
-
-
-
