@@ -18,14 +18,14 @@
 ## 👨‍💻 About Me
 
 I am a BCA student passionate about **Backend Development** and **Python**.  
-I enjoy building APIs using **Flask** and **FastAPI** and working with databases like **MySQL** and **SQLite**.
+I enjoy building REST APIs using **Flask** and **FastAPI** and working with databases like **MySQL** and **SQLite**.
 
 - 🔭 Currently working on Backend Projects  
-- 🌱 Learning Advanced Backend Development    
-- ⚡ Goal: Become a Software Engineer
+- 🌱 Learning Advanced Backend Development
+- 🌟 Vision: Leverage Machine Learning to create data-driven and intelligent applications. 
+  
 
  
-
 .
 
 <h3>Languages :</h3>
