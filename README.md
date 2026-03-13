@@ -9,7 +9,8 @@
 <p align="center">
 <p align="center">
 <p align="center">
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-laptop-4489759-3723277.png" width="350"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120"/>
 </p>
 
 
