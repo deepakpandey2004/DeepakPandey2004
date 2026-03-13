@@ -80,7 +80,21 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2004&layout=compact&theme=tokyonight)
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2004&layout=compact&theme=tokyonight"/>
+
+</td>
+
+<td>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 
 
