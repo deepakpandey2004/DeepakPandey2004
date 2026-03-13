@@ -1,8 +1,28 @@
- 👨‍💻 About Me
+<h1 align="center">Hey, I'm DEEPAK PANDEY 👋</h1>
 
- Hi there, I'm Deepak Pandey!
 
-.🎓 I'm a Final Year BCA student | Backend Developer | Machine Learning Enthuasist.
+<p align="center">
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-working-on-laptop-5695773-4759506.png" width="350"/>
+</p>
+
+
+<p align="center">
+🤖 A passionate Backend Developer from India | Machine Learning Enthuasist
+</p>
+
+
+## 👨‍💻 About Me
+
+I am a BCA student passionate about **Backend Development** and **Python**.  
+I enjoy building APIs using **Flask** and **FastAPI** and working with databases like **MySQL** and **SQLite**.
+
+- 🔭 Currently working on Backend Projects  
+- 🌱 Learning Advanced Backend Development    
+- ⚡ Goal: Become a Software Engineer
+
+ 
+
+.
 
 <h3>Languages :</h3>
 
