@@ -97,19 +97,19 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 </table>
 
 
-<h3 align="center">My Socials</h3>
+<<h3 align="center">My Socials</h3>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="30"></td>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-</p>
+<td align="
 
 
 
