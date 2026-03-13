@@ -105,6 +105,7 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 <p align="center">
 <a href="https://linkedin.com/in/deepakpandey12">
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://instagram.com/diipak2005">
 <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
