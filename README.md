@@ -28,16 +28,19 @@ I enjoy building APIs using **Flask** and **FastAPI** and working with databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
+ 
 <img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 <h3>Version Control and Cloud Platforms :</h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git" />
+ 
 <img src="https://skillicons.dev/icons?i=github" />
+
 <img src="https://skillicons.dev/icons?i=aws" />
+
 <img src="https://skillicons.dev/icons?i=gcp" />
 </p>
 
@@ -45,8 +48,11 @@ I enjoy building APIs using **Flask** and **FastAPI** and working with databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask" />
+ 
 <img src="https://skillicons.dev/icons?i=fastapi" />
+
 <img src="https://skillicons.dev/icons?i=mysql" />
+
 <img src="https://skillicons.dev/icons?i=sqlite" />
 </p>
 
@@ -54,7 +60,9 @@ I enjoy building APIs using **Flask** and **FastAPI** and working with databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postman" />
+ 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
+
 <img src="https://skillicons.dev/icons?i=numpy" />
 <img src="https://skillicons.dev/icons?i=pandas" />
 </p>
