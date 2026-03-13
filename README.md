@@ -27,45 +27,36 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 
 
- <br>
-
 <br>
 
 <h2>💻 Skills</h2>
 
 <h3>Languages :</h3>
-
-<img src="https://skillicons.dev/icons?i=python" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=c" style="margin-right:20px"/>
-
-<br><br>
-
-<h3>Version Control and Cloud Platforms :</h3>
-
-<img src="https://skillicons.dev/icons?i=git" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=github" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=aws" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=gcp" style="margin-right:20px"/>
-
-<br><br>
-
-<h3>Frameworks and Databases :</h3>
-
-<img src="https://skillicons.dev/icons?i=flask" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=fastapi" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=mysql" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=sqlite" style="margin-right:20px"/>
-
-<br><br>
-
-<h3>Modules and Libraries :</h3>
-
-<img src="https://skillicons.dev/icons?i=postman" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=numpy" style="margin-right:20px"/>
-<img src="https://skillicons.dev/icons?i=pandas" style="margin-right:20px"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
 
 <br>
+
+<h3>Version Control and Cloud Platforms :</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,gcp" />
+</p>
+
+<br>
+
+<h3>Frameworks and Databases :</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite" />
+</p>
+
+<br>
+
+<h3>Modules and Libraries :</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=postman,tensorflow,numpy,pandas" />
+</p>
+
 <br>
 .
 
