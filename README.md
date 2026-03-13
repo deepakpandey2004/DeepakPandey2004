@@ -25,7 +25,46 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 - 🌟 Vision: Leverage Machine Learning to create data-driven and intelligent applications. 
   
 
- 
+
+
+ <br>
+
+<h2>💻 Skills</h2>
+
+<h3>Languages :</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=python" /> 
+<img src="https://skillicons.dev/icons?i=c" />
+</p>
+
+<br>
+
+<h3>Version Control and Cloud Platforms :</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git" /> 
+<img src="https://skillicons.dev/icons?i=github" /> 
+<img src="https://skillicons.dev/icons?i=aws" /> 
+<img src="https://skillicons.dev/icons?i=gcp" />
+</p>
+
+<br>
+
+<h3>Frameworks and Databases :</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=flask" /> 
+<img src="https://skillicons.dev/icons?i=fastapi" /> 
+<img src="https://skillicons.dev/icons?i=mysql" /> 
+<img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+<br>
+
+<h3>Modules and Libraries :</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=postman,tensorflow,numpy,pandas" />
+</p>
+
+<br>
 .
 
 
