@@ -31,9 +31,9 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <h3>Languages :</h3>
 <p>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
 <img src="https://skillicons.dev/icons?i=c" width="50"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
 </p>
 
 <br>
