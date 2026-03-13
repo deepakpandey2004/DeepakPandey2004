@@ -28,56 +28,7 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
  
 .
 
-<h3>Languages :</h3>
 
-<img src="https://skillicons.dev/icons?i=python,c" />
-
-<h3>Version Control and Cloud Platforms :</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp" />
-
-<h3>Frameworks and Databases :</h3>
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite" />
-
-<h3>Modules and Libraries :</h3>
-
-<img src="https://skillicons.dev/icons?i=postman,tensorflow,numpy,pandas" />
-
-<h3>Version Control and Cloud Platforms :</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" />
- 
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=aws" />
-
-<img src="https://skillicons.dev/icons?i=gcp" />
-</p>
-
-<h3>Frameworks and Databases :</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask" />
- 
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
-
-<h3>Modules and Libraries :</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postman" />
- 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-
-<img src="https://skillicons.dev/icons?i=numpy" />
-<img src="https://skillicons.dev/icons?i=pandas" />
-</p>
 
 ## Most Used Languages
 
