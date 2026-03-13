@@ -1,4 +1,10 @@
 <h1 align="center">Hey, I'm DEEPAK PANDEY 👋</h1>
+<h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
+<h3 align="center">Backend Developer | Python 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Flask+%7C+FastAPI+Developer;API+Development;Always+Learning+New+Things" />
+</p>
 
 
 <p align="center">
