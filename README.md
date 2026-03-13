@@ -30,23 +30,52 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 <h2>💻 Skills</h2>
 
 <h3>Languages :</h3>
-<img src="https://skillicons.dev/icons?i=c,python&perline=4" />
+<p>
+<img src="https://skillicons.dev/icons?i=c" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</p>
 
-<br><br>
+<br>
 
 <h3>Version Control and Cloud Platforms :</h3>
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp&perline=4" />
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" width="50"/>
+</p>
 
-<br><br>
+<br>
 
 <h3>Frameworks and Databases :</h3>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,flask,django,fastapi&perline=5" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
+</p>
 
-<br><br>
+<br>
 
 <h3>Modules and Libraries :</h3>
-<img src="https://skillicons.dev/icons?i=postman,numpy,pandas,tensorflow&perline=4" />
-.
+<p>
+<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=numpy" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pandas" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+</p>
 
 
 
