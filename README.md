@@ -68,14 +68,11 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <h3>Modules and Libraries :</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postman" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
 </p>
 
 
