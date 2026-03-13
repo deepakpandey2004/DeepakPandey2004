@@ -30,11 +30,19 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <h3>Languages :</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,c" />
 
-<img src="https://skillicons.dev/icons?i=c" />
-</p>
+<h3>Version Control and Cloud Platforms :</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,gcp" />
+
+<h3>Frameworks and Databases :</h3>
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite" />
+
+<h3>Modules and Libraries :</h3>
+
+<img src="https://skillicons.dev/icons?i=postman,tensorflow,numpy,pandas" />
 
 <h3>Version Control and Cloud Platforms :</h3>
 
