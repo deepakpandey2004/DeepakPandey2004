@@ -90,26 +90,12 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <td>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=deepakpandey2004&theme=tokyonight"/>
 
 </td>
 </tr>
 </table>
 
-
-<<h3 align="center">My Socials</h3>
-
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-</td>
-
-<td width="30"></td>
-
-<td align="
 
 
 
