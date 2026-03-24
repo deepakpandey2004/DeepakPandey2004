@@ -45,7 +45,7 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,docker" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp" width="50"/>
 &nbsp;&nbsp;&nbsp;
