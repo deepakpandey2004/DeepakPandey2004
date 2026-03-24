@@ -48,6 +48,8 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 <img src="https://skillicons.dev/icons?i=aws" width="50"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
 <br>
