@@ -55,8 +55,6 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 <br>
 
 <h3>Frameworks and Databases :</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
 &nbsp;&nbsp;&nbsp;
