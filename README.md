@@ -52,8 +52,6 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <br>
 
-<br>
-
 <h3>Frameworks and Databases :</h3>
 
 <p align="left">
@@ -65,8 +63,6 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
 
 </p>
-
-<br>
 
 <br>
 
