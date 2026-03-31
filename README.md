@@ -57,20 +57,20 @@ I enjoy building REST APIs using **Flask** and **FastAPI** and working with data
 
 <br>
 
+<br>
+
 <h3>Frameworks and Databases :</h3>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flask" width="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" width="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" width="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="50" />
 </p>
+
+<br>
 
 <br>
 
