@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a BCA student passionate about **Backend Development** and **Python**.  
+I am a **Backend Developer**.  
 I enjoy building REST APIs using **Flask** and **FastAPI** and working with databases like **PostgreSQL** and **SQLite**.
 
 - 🔭 Currently working on Backend Projects  
