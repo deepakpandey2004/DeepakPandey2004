@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
-<h3 align="center">Backend Developer | Python | Machine Learning
+<h3 align="center">Backend Developer | Python | Fast API
 
 
 <p align="center">
@@ -11,13 +11,13 @@
 
 
 <p align="center">
-🤖 A passionate Backend Developer from India | Machine Learning Enthuasist
+🤖 A passionate Backend Developer from India | 
 </p>
 
 
 ## 👨‍💻 About Me
 
-I am a **Backend Developer**.  
+I’m a fresher Python **Backend Developer** with hands-on experience in REST APIs, PostgreSQL, JWT auth, and Docker. I’ve worked at 2 startups as intern and shipped real features, not just tutorials  
 I enjoy building REST APIs using **Flask** and **FastAPI** and working with databases like **PostgreSQL** and **SQLite**.
 
 - 🔭 Currently working on Backend Projects  
