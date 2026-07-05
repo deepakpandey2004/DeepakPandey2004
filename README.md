@@ -6,7 +6,11 @@
 <p align="center">
 <p align="center">
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/000000">
+  <img src="https://cdn.simpleicons.org/github/000000" width="120">
+</picture>
 </p>
 
 
