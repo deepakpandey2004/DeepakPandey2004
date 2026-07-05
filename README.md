@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a fresher Python **Backend Developer** with hands-on experience in REST APIs, PostgreSQL, JWT auth, and Docker. I’ve worked at 2 startups as intern and shipped real features, not just tutorials  
+I’m a Python **Backend Developer** with hands-on experience in REST APIs, PostgreSQL, JWT auth, and Docker. I’ve worked at 2 startups as intern and shipped real features, not just tutorials  
 I enjoy building REST APIs using **Flask** and **FastAPI** and working with databases like **PostgreSQL** and **SQLite**.
 
 - 🔭 Currently working on Backend Projects  
