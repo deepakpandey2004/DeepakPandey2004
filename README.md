@@ -6,7 +6,7 @@
 <p align="center">
 <p align="center">
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120"/>
+<img src=[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakpandey2004)/>
 </p>
 
 
