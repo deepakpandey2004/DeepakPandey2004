@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
-<h3 align="center">Backend Developer | Python | Fast API
+<h3 align="center">Backend Developer | Python | Fast API | DevOps
 
 
 <p align="center">
