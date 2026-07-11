@@ -15,7 +15,7 @@
 
 
 <p align="center">
-🤖 A passionate Backend Developer from India | 
+🤖 A passionate Backend Developer from India 
 </p>
 
 
